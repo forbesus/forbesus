@@ -5,10 +5,10 @@
   I am a Full Stack & Blockchain Developer.
 </h3>
 <div align="center">
-  <img src="https://github.com/naruhitokaide/naruhitokaide/blob/main/divider1.png" alt="divider"/>
+  <img src="https://github.com/forbesus/forbesus/blob/main/divider1.png" alt="divider"/>
 </div> 
 
-<h3 align="center"><img src="https://github.com/naruhitokaide/naruhitokaide/blob/main/code.gif" height="20"/> Tech & Tools</h3>
+<h3 align="center"><img src="https://github.com/forbesus/forbesus/blob/main/code.gif" height="20"/> Tech & Tools</h3>
 
 <div align="center" style="witdh:100%"> 
   <table>
@@ -93,21 +93,21 @@
 </div>
 
 <div align="center">
-  <img src="https://github.com/naruhitokaide/naruhitokaide/blob/main/divider2.png" alt="divider"/>
+  <img src="https://github.com/forbesus/forbesus/blob/main/divider2.png" alt="divider"/>
 </div> 
 <div align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dracula" alt="Readme Quotes"/>
 </div> 
 
 <div align="center">
-  <img src="https://github.com/naruhitokaide/naruhitokaide/blob/main/divider2.png" alt="divider"/>
+  <img src="https://github.com/forbesus/forbesus/blob/main/divider2.png" alt="divider"/>
 </div>    
 <div align="center">
-  <img src="https://github.com/naruhitokaide/naruhitokaide/blob/main/portfolio.png" alt="Portfolio"/>
+  <img src="https://github.com/forbesus/forbesus/blob/main/portfolio.png" alt="Portfolio"/>
 </div> 
 
 <div align="center">
-  <img src="https://github.com/naruhitokaide/naruhitokaide/blob/main/divider1.png" alt="divider"/>
+  <img src="https://github.com/forbesus/forbesus/blob/main/divider1.png" alt="divider"/>
 </div> 
 
    
