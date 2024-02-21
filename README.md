@@ -112,7 +112,7 @@
 
    
 <p align = "center">
-  <img src = "https://github-readme-streak-stats.herokuapp.com?user=naruhitokaide&theme=tokyonight&hide_border=true&include_all_commits=true&line_height=27">
+  <img src = "https://github-readme-streak-stats.herokuapp.com?user=forbesus&theme=tokyonight&hide_border=true&include_all_commits=true&line_height=27">
 </p>
 
 <p align="center">
@@ -124,7 +124,7 @@
   &nbsp;&nbsp;
   <a href="https://t.me/forbes35" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/color/2x/telegram-app.png"  width="50" /></a>
   &nbsp;&nbsp;
-  <a href="https://naruhito-kaide.netlify.app" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/nolan/2x/link.png"  width="50" /></a>
+  <a href="https://github.com/forbesus" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/nolan/2x/link.png"  width="50" /></a>
   
 </p>
 
