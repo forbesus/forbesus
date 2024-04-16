@@ -98,10 +98,6 @@
 <div align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dracula" alt="Readme Quotes"/>
 </div> 
-
-<div align="center">
-  <img src="https://github.com/forbesus/forbesus/blob/main/divider2.png" alt="divider"/>
-</div>   
 <div align="center">
   <img src="https://github.com/forbesus/forbesus/blob/main/divider1.png" alt="divider"/>
 </div> 
