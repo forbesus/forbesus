@@ -101,11 +101,7 @@
 
 <div align="center">
   <img src="https://github.com/forbesus/forbesus/blob/main/divider2.png" alt="divider"/>
-</div>    
-<div align="center">
-  <img src="https://github.com/forbesus/forbesus/blob/main/portfolio.png" alt="Portfolio"/>
-</div> 
-
+</div>   
 <div align="center">
   <img src="https://github.com/forbesus/forbesus/blob/main/divider1.png" alt="divider"/>
 </div> 
