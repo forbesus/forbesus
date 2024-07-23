@@ -36,7 +36,7 @@
       <td valign="center" align="center" width="300px">
         <img src="https://img.shields.io/badge/Django-blue" /> 
         <img src="https://img.shields.io/badge/Python-blue" /> 
-        <img src="https://img.shields.io/badge/Selenium-blue" />        
+        <img src="https://img.shields.io/badge/Rust-blue" />        
         <img src="https://img.shields.io/badge/Ruby-blue" /> 
         <img src="https://img.shields.io/badge/Rails-blue" /> 
         <img src="https://img.shields.io/badge/BeautifulSoup-blue" /> 
